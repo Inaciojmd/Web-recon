@@ -41,22 +41,22 @@ git clone https://github.com/Inaciojmd/Web-recon.git
 cd Web-recon
 ```
 
-# Create a Virtual Environment
+### Create a Virtual Environment
 ```
 python3 -m venv daylor-env
 source /home/daylor/TOOLS/daylor-env/bin/activate
 ```
-# Install dependencies
+### Install dependencies
 ```
 pip install -r requirements.txt
 ```
 
-# Usage
+### Usage
 ```
 python3 multi-main.py https://example.com
 ```
 
-# Configure Tor (Linux)
+### Configure Tor (Linux)
 ```
 sudo apt install tor
 sudo systemctl start tor
