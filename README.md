@@ -37,8 +37,8 @@ A multi-module security assessment tool for identifying vulnerabilities in web a
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/web-scanner.git
-cd web-scanner
+git clone https://github.com/Inaciojmd/Web-recon.git
+cd Web-recon
 
 # Install dependencies
 pip install -r requirements.txt
@@ -49,4 +49,18 @@ python3 multi-main.py https://example.com
 # Configure Tor (Linux)
 sudo apt install tor
 sudo systemctl start tor
+```
 
+### ⚠️ STRICT DISCLAIMER – READ CAREFULLY
+
+This software is intended solely for educational and ethical testing purposes. Unauthorized use of this tool is strictly prohibited. By using this software, you agree that:
+
+1. You are fully responsible for any actions taken with it.
+
+2. The developers and contributors will not be held liable for any form of damage, misuse, or legal consequences arising from its use.
+
+3. You must have explicit permission before testing or assessing any system, network, or device.
+
+4. Any use of this tool against systems you do not own or lack authorization for is likely illegal and unethical.
+
+Misuse can lead to criminal prosecution. Use wisely, use legally, and use responsibly.
