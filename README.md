@@ -1,6 +1,6 @@
 # 🔍 Web Vulnerability Scanner Toolkit
 
-![Banner](assets/banner.png) *(Optional: Add actual banner image later)*
+![Banner](assets/1.png) ![Banner](assets/2.png)
 
 A multi-module security assessment tool for identifying vulnerabilities in web applications, with Tor anonymity support.
 
