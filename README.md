@@ -1,4 +1,3 @@
-# Web-recon
 # 🔍 Web Vulnerability Scanner Toolkit
 
 ![Banner](assets/banner.png) *(Optional: Add actual banner image later)*
