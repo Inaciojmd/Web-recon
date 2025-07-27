@@ -1,6 +1,6 @@
 # 🔍 Web Vulnerability Scanner Toolkit
 
-![Banner](assets/1.png) ![Banner](assets/2.png)
+![Banner](assets/1.png) ![Banner](assets/3.png)
 
 A multi-module security assessment tool for identifying vulnerabilities in web applications, with Tor anonymity support.
 
@@ -39,14 +39,25 @@ A multi-module security assessment tool for identifying vulnerabilities in web a
 # Clone repository
 git clone https://github.com/Inaciojmd/Web-recon.git
 cd Web-recon
+```
 
+# Create a Virtual Environment
+```
+python3 -m venv daylor-env
+source /home/daylor/TOOLS/daylor-env/bin/activate
+```
 # Install dependencies
+```
 pip install -r requirements.txt
+```
 
 # Usage
+```
 python3 multi-main.py https://example.com
+```
 
 # Configure Tor (Linux)
+```
 sudo apt install tor
 sudo systemctl start tor
 ```
