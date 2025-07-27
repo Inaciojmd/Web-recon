@@ -34,9 +34,8 @@ A multi-module security assessment tool for identifying vulnerabilities in web a
 - Python 3.8+
 - Tor service
 
-### Setup
+### Clone repository
 ```bash
-# Clone repository
 git clone https://github.com/Inaciojmd/Web-recon.git
 cd Web-recon
 ```
