@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ### Usage
 ```
-python3 multi-main.py https://example.com
+python3 multi-main.py https://target.com
 ```
 
 ### Configure Tor (Linux)
